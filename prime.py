@@ -1,4 +1,4 @@
-n = 12
+n = 15
 prime = True
 
 for u in range(2, n):
